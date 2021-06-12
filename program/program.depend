@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623475879 source:c:\users\heshan kalhara\documents\main assigment\programms\git_repo\c.a_assignment-\program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
